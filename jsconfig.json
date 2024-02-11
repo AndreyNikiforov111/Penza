@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./laravel10-vue3-vite",
+    "paths": {
+      "@/*": [
+        "resources/js/src/*"
+      ]
+    }
+  }
+}
